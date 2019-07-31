@@ -1,0 +1,6 @@
+D:\C# Projects\Space_Game_MSSA\SpaceGameLibrary\bin\Debug\SpaceGameLibrary.dll
+D:\C# Projects\Space_Game_MSSA\SpaceGameLibrary\bin\Debug\SpaceGameLibrary.pdb
+D:\C# Projects\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.csproj.CoreCompileInputs.cache
+D:\C# Projects\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.dll
+D:\C# Projects\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.pdb
+D:\C# Projects\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.csprojAssemblyReference.cache

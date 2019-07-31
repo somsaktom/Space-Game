@@ -1,0 +1,10 @@
+D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\Space_Game_MSSA.exe.config
+D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\Space_Game_MSSA.exe
+D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\Space_Game_MSSA.pdb
+D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.csprojAssemblyReference.cache
+D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.csproj.CoreCompileInputs.cache
+D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.exe
+D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.pdb
+D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\SpaceGameLibrary.dll
+D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\SpaceGameLibrary.pdb
+D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.csproj.CopyComplete

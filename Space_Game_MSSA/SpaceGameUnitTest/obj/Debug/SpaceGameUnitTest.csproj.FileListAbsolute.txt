@@ -1,0 +1,16 @@
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\SpaceGameUnitTest.dll
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\SpaceGameUnitTest.pdb
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\obj\Debug\SpaceGameUnitTest.csprojAssemblyReference.cache
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\obj\Debug\SpaceGameUnitTest.csproj.CoreCompileInputs.cache
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\obj\Debug\SpaceGameUnitTest.csproj.CopyComplete
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\obj\Debug\SpaceGameUnitTest.dll
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\obj\Debug\SpaceGameUnitTest.pdb
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\SpaceGameLibrary.dll
+D:\C# Projects\Space_Game_MSSA\SpaceGameUnitTest\bin\Debug\SpaceGameLibrary.pdb
