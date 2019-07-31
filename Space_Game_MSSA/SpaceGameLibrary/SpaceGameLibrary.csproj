@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Factory.cs" />
     <Compile Include="goodyBag.cs" />
     <Compile Include="Human.cs" />
     <Compile Include="HumanSpeech.cs" />

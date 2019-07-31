@@ -10,6 +10,7 @@ namespace Space_Game_MSSA
     {
         static void Main(string[] args)
         {
+            Console.Title = "Space Game";
             mainManu();
         }
 

@@ -55,9 +55,43 @@ namespace Space_Game_MSSA
 
             return result;
         }
+        public double CashOut()
+        {
+            //This where you cash out to win the game. 
+            //It should be in the home planet
+            double result = 0;
+            return result;
+        }
 
         
-        enum PlanetSpecializedIn { Gold, Silver, Copper, Brass, Bronze }
+       
+        public void Menu()
+        {
+            Console.WriteLine("Select option from below!");
+            Console.WriteLine("1. Gold Planet");
+            Console.WriteLine("2. Silver Planet");
+            Console.WriteLine("3. Brass Planet");
+            Console.WriteLine("4. Bronze Planet");
+            Console.WriteLine("5. Copper Planet");
+            Console.WriteLine("6. Home");
+        }
+
+        public void HomePlanet()
+        {
+            Console.WriteLine("Select option from below");
+            Console.WriteLine("1. Buy");
+            Console.WriteLine("2. Sell");
+            Console.WriteLine("3. Cash in $1 billion to win");
+            Console.WriteLine("4. Go to Space!");
+
+        }
+        public void PlanetMenu()
+        {
+            Console.WriteLine("Select option from below");
+            Console.WriteLine("1. Buy");
+            Console.WriteLine("2. Sell");
+            Console.WriteLine("3. Go back to space");
+        }
 
     }
 }

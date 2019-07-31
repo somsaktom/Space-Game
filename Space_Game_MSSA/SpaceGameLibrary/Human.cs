@@ -27,7 +27,16 @@ namespace Space_Game_MSSA
             this.bronze = 0;
             this.copper = 0;
         }
-        
-    
+        public void CharacterName()
+        {
+            String CharacterName = " ";
+
+            Console.WriteLine($"Your name is {CharacterName}");
+            CharacterName = Console.ReadLine();
+            Console.WriteLine($"Welcome, {CharacterName}, and good luck!");
+
+
+        }
+
     }
 }
