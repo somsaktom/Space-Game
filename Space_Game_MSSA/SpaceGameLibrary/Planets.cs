@@ -28,43 +28,6 @@ namespace Space_Game_MSSA
             this.Copper = 100;
         }
         public Speech Speech { get; set; }
-
-        public double sell()
-        {
-            double result = 0;
-            return result;
-        }
-
-        public double buy()
-        {
-            double result = 0;
-
-            return result;
-        }
-
-        public double negotiation()
-        {
-            double result = 0;
-
-            return result;
-        }
-
-        public double counterOffer()
-        {
-            double result = 0;
-
-            return result;
-        }
-        public double CashOut()
-        {
-            //This where you cash out to win the game. 
-            //It should be in the home planet
-            double result = 0;
-            return result;
-        }
-
-        
-       
         public void Menu()
         {
             Console.WriteLine("Select option from below!");
@@ -91,6 +54,32 @@ namespace Space_Game_MSSA
             Console.WriteLine("1. Buy");
             Console.WriteLine("2. Sell");
             Console.WriteLine("3. Go back to space");
+        }
+        public void GoldPlanet()
+        {
+
+            Console.WriteLine("Welcom to the Gold Planet");
+            Console.WriteLine("What do you want to do?");
+            m.PlanetMenu();
+        }
+        Menu m = new Menu();
+        public void SilverPlanet()
+        {
+            Console.WriteLine("Welcom to the Silver Planet.");
+            Console.WriteLine("Do something or get the hell out.");
+            m.PlanetMenu();
+        }
+        public void BrassPlanet()
+        {
+            m.PlanetMenu();
+        }
+        public void BronzePlanet()
+        {
+            m.PlanetMenu();
+        }
+        public void CopperPlanet()
+        {
+            m.PlanetMenu();
         }
 
     }

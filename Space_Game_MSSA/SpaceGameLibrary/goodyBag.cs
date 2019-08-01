@@ -12,5 +12,41 @@ namespace Space_Game_MSSA
         {
             //Console.WriteLine($"These are what {PlanetName} has to offer you in trade :\ngold = {PlanetName.Gold}\nsilver = {PlanetName.Silver}\ncopper = {PlanetName.Copper}\nbronze = {PlanetName.Bronze}\nbrass = {brass}");
         }
+        public double sell()
+        {
+            double result = 0;
+            return result;
+        }
+
+        public double buy()
+        {
+        
+            double result = 0;
+
+            return result;
+        }
+
+        public double negotiation()
+        {
+            
+            double result = 0;
+
+            return result;
+        }
+
+        public double counterOffer()
+        {
+            double result = 0;
+
+            return result;
+        }
+        public double CashOut()
+        {
+            //This where you cash out to win the game. 
+            //It should be in the home planet
+            double result = 0;
+            return result;
+        }
+
     }
 }

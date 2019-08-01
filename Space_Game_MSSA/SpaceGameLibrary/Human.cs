@@ -33,6 +33,7 @@ namespace Space_Game_MSSA
 
             Console.WriteLine($"Your name is {CharacterName}");
             CharacterName = Console.ReadLine();
+            Console.Clear();
             Console.WriteLine($"Welcome, {CharacterName}, and good luck!");
 
 

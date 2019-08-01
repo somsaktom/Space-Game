@@ -4,3 +4,9 @@ D:\C# Projects\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.cspro
 D:\C# Projects\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.dll
 D:\C# Projects\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.pdb
 D:\C# Projects\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.csprojAssemblyReference.cache
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.csprojAssemblyReference.cache
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.dll
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\SpaceGameLibrary\obj\Debug\SpaceGameLibrary.pdb
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\SpaceGameLibrary\bin\Debug\SpaceGameLibrary.dll
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\SpaceGameLibrary\bin\Debug\SpaceGameLibrary.pdb

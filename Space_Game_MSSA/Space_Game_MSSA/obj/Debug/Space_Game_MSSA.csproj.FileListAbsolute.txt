@@ -8,3 +8,13 @@ D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.pdb
 D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\SpaceGameLibrary.dll
 D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\SpaceGameLibrary.pdb
 D:\C# Projects\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.csproj.CopyComplete
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\Space_Game_MSSA.exe.config
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\Space_Game_MSSA.exe
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\Space_Game_MSSA.pdb
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\SpaceGameLibrary.dll
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\Space_Game_MSSA\bin\Debug\SpaceGameLibrary.pdb
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.csprojAssemblyReference.cache
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.csproj.CoreCompileInputs.cache
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.csproj.CopyComplete
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.exe
+C:\Users\jayst\OneDrive\Desktop\Space Game\Space_Game_MSSA\Space_Game_MSSA\obj\Debug\Space_Game_MSSA.pdb
